@@ -5,11 +5,16 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>*</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
         <members>DevopsApps</members>
         <name>CustomApplication</name>
     </types>
     <types>
         <members>Account.Amount__c</members>
+        <members>Account.Country__c</members>
         <members>DevopsObject__c.DevopsCity__c</members>
         <members>DevopsObject__c.DevopsFieldName__c</members>
         <members>DevopsObject__c.DevopsState__c</members>
@@ -30,7 +35,7 @@
         <name>Layout</name>
     </types>
     <types>
-        <members>unfiled$public/DevopsReport</members>
+        <members>Base/BaseReport</members>
         <name>Report</name>
     </types>
     <version>52.0</version>

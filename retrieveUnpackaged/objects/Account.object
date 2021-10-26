@@ -283,6 +283,45 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Country__c</fullName>
+        <externalId>false</externalId>
+        <label>Country</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>India</fullName>
+                    <default>false</default>
+                    <label>India</label>
+                </value>
+                <value>
+                    <fullName>SriLanka</fullName>
+                    <default>false</default>
+                    <label>SriLanka</label>
+                </value>
+                <value>
+                    <fullName>Nepal</fullName>
+                    <default>false</default>
+                    <label>Nepal</label>
+                </value>
+                <value>
+                    <fullName>Bhutan</fullName>
+                    <default>false</default>
+                    <label>Bhutan</label>
+                </value>
+                <value>
+                    <fullName>Australia</fullName>
+                    <default>false</default>
+                    <label>Australia</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>CustomerPriority__c</fullName>
         <externalId>false</externalId>
         <label>Customer Priority</label>
