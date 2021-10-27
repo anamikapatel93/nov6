@@ -51,7 +51,7 @@
         <field>Account.Country__c</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
-    <name>BaseReport</name>
+    <name>Base Country Report</name>
     <params>
         <name>co</name>
         <value>1</value>
@@ -64,6 +64,6 @@
     <timeFrameFilter>
         <dateColumn>CREATED_DATE</dateColumn>
         <interval>INTERVAL_CUSTOM</interval>
-        <startDate>2021-10-19</startDate>
+        <startDate>2021-10-20</startDate>
     </timeFrameFilter>
 </Report>

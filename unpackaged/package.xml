@@ -35,8 +35,10 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Base/BaseReport</members>
+    <members>BaseReport</members>
+        <members>BaseReport/Base_Country_Report</members>
         <name>Report</name>
     </types>
+    
     <version>52.0</version>
 </Package>
